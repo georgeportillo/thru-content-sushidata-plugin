@@ -1,0 +1,26 @@
+{
+  "name": "thru-content-sushidata-gtm",
+  "version": "0.5.16",
+  "description": "Sushidata is a context data lake for long-term AI memory. This plugin turns Claude into a Sushidata-native agent: ingest community signals from Discord, Slack, and forums; run GTM prospecting and outbound with HeyReach and Apify; build competitor battlecards for PMMs; analyze campaign performance with research swarms; discover ICP signals from won/lost account data; and generate personalized outreach copy. Every finding is saved to the Sushidata context lake so future sessions have full memory of what was learned.",
+  "author": {
+    "name": "Sushidata"
+  },
+  "keywords": [
+    "sushidata",
+    "context-lake",
+    "gtm",
+    "community-intelligence",
+    "competitor-analysis",
+    "campaign-intelligence",
+    "icp-signals",
+    "prospecting",
+    "outbound",
+    "enrichment",
+    "heyreach",
+    "hubspot",
+    "apify"
+  ],
+  "homepage": "https://dashboard.sushidata.ai",
+  "repository": "https://github.com/georgeportillo/thru-content-sushidata-plugin",
+  "license": "MIT"
+}

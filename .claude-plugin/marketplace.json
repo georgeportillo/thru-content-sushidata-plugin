@@ -1,0 +1,16 @@
+{
+  "name": "thru-content-sushidata-gtm",
+  "owner": {
+    "name": "Sushidata"
+  },
+  "plugins": [
+    {
+      "name": "thru-content-sushidata-gtm",
+      "source": {
+        "source": "github",
+        "repo": "georgeportillo/thru-content-sushidata-plugin"
+      },
+      "description": "Sushidata context lake + GTM agent: prospecting, outbound, competitor battlecards, ICP signals, and outreach copy."
+    }
+  ]
+}
